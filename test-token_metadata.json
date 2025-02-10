@@ -1,0 +1,6 @@
+{
+  "name": "Test Token",
+  "symbol": "TToken",
+  "description": "This is just a test token!",
+  "image": "TOKEN_IMAGE_URL"
+}
