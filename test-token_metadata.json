@@ -2,5 +2,5 @@
   "name": "Test Token",
   "symbol": "TToken",
   "description": "This is just a test token!",
-  "image": "https://github.com/hackguy101010/solana/blob/23f16fd9cfc5db9efd3f9a5870e4db70eba304ec/token-image.png"
+  "image": "https://raw.githubusercontent.com/hackguy101010/solana/23f16fd9cfc5db9efd3f9a5870e4db70eba304ec/token-image.png"
 }
